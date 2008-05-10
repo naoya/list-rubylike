@@ -306,7 +306,8 @@ List::RubyLike - Ruby-like list operations
 
 =head1 AUTHOR
 
-Naoya Ito, E<lt>naoya at hatena.ne.jp<gt>
+Naoya Ito, E<lt>naoya at hatena ne jp<gt>
+Yuichi Tateno, E<lt>secondlife at hatena ne jp<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
