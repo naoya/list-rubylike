@@ -1,0 +1,6 @@
+Revision history for Perl extension List::RubyLike.
+
+0.01  Sat May 10 13:36:19 2008
+	- original version; created by h2xs 1.23 with options
+		-AX -n List::RubyLike
+
